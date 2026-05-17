@@ -4,18 +4,16 @@ I’m an Information Systems student focused on DevOps and Linux system administ
 
 ### Tech Stack
 * **OS & Scripting:** Linux (Ubuntu), Bash
-* **Backend & Languages:** Java (Spring Boot), Python, C++
+* **Backend & Languages:** Java (Spring Boot), Python
 * **Concepts:** OOP, Design Patterns, Data Structures, Web Fundamentals
 
 ### What I'm up to right now
 * Diving deeper into networking and core DevOps infrastructure.
 * Looking to step into my first Junior SysAdmin or IT Support role this summer.
-* Maintaining backend projects, like a Spring Boot Hospital Management System.
 
 ### Connect with me
-* **Telegram:** [@your_username]
-* **LinkedIn:** [Link to profile](link)
-* **Email:** your.email@example.com
+* **Telegram:** @DevNSQ
+* **Email:** nurdauletsagimbaev34@gmail.com
 
 ---
 
