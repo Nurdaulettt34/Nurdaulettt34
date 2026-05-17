@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! I'm Nurdaulet.🫡
 
-<!--
-**Nurdaulettt34/Nurdaulettt34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Information Systems student focused on DevOps and Linux system administration. I like bridging the gap between infrastructure and development, keeping a solid footing in backend, basic web, and algorithms.
 
-Here are some ideas to get you started:
+### Tech Stack
+* **OS & Scripting:** Linux (Ubuntu), Bash
+* **Backend & Languages:** Java (Spring Boot), Python, C++
+* **Concepts:** OOP, Design Patterns, Data Structures, Web Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm up to right now
+* Diving deeper into networking and core DevOps infrastructure.
+* Looking to step into my first Junior SysAdmin or IT Support role this summer.
+* Maintaining backend projects, like a Spring Boot Hospital Management System.
+
+### Connect with me
+* **Telegram:** [@your_username]
+* **LinkedIn:** [Link to profile](link)
+* **Email:** your.email@example.com
+
+---
+
+*Fun fact: I balance writing heavy code with lifting heavy weights in the gym.*
